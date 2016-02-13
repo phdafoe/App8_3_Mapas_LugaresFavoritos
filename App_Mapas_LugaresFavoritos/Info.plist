@@ -4,6 +4,10 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Necesito saber donde estas</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Siempre necesito saber</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>CFBundleExecutable</key>
